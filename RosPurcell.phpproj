@@ -521,6 +521,7 @@
     <Folder Include="sites\all\modules\panels\plugins\task_handlers\" />
     <Folder Include="sites\all\modules\panels\plugins\views\" />
     <Folder Include="sites\all\modules\panels\templates\" />
+    <Folder Include="sites\all\modules\smtp\" />
     <Folder Include="sites\all\modules\views\" />
     <Folder Include="sites\all\modules\views\css\" />
     <Folder Include="sites\all\modules\views\css\ie\" />
@@ -2825,6 +2826,15 @@
     <Content Include="sites\all\modules\panels\README.txt" />
     <Content Include="sites\all\modules\panels\UPGRADE.txt" />
     <Content Include="sites\all\modules\README.txt" />
+    <Content Include="sites\all\modules\smtp\LICENSE.txt" />
+    <Content Include="sites\all\modules\smtp\README.txt" />
+    <Content Include="sites\all\modules\smtp\smtp.admin.inc" />
+    <Content Include="sites\all\modules\smtp\smtp.info" />
+    <Content Include="sites\all\modules\smtp\smtp.install" />
+    <Content Include="sites\all\modules\smtp\smtp.mail.inc" />
+    <Content Include="sites\all\modules\smtp\smtp.module" />
+    <Content Include="sites\all\modules\smtp\smtp.phpmailer.inc" />
+    <Content Include="sites\all\modules\smtp\smtp.transport.inc" />
     <Content Include="sites\all\modules\views\css\ie\views-admin.ie7.css" />
     <Content Include="sites\all\modules\views\css\views-admin-rtl.css" />
     <Content Include="sites\all\modules\views\css\views-admin.advanced_help.css" />
